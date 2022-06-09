@@ -13,6 +13,7 @@
 ![GitHub](https://img.shields.io/github/license/AucaCoyan/template-new-repo)
 
 <!-- template badges
+
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/AucaCoyan/template-new-repo)
 
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/AucaCoyan/template-new-repo)
@@ -26,6 +27,8 @@
 [![Edge](https://img.shields.io/badge/browser-edge-blue)](https://img.shields.io/badge/browser-edge-blue)
 
 [![Chrome](https://img.shields.io/badge/browser-chrome-yellow)](https://img.shields.io/badge/browser-chrome-yellow)
+
+[![Typing: mypy](https://badgen.net/badge/typing/mypy/green)](https://badgen.net/badge/typing/mypy/green)
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
