@@ -42,7 +42,7 @@
 [Installation](#installation) •
 [Contributing](#contributing)
 
-![my pic](https://github.com/AucaCoyan/template-new-repo/blob/main/img/main-window.png?raw=true)
+![copy the img url](here)
 
 </div>
 
